@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif)
 <h1 align="center">hi hi 👋, I'm Sherine🌙</h1>
-<h3 align="center">Welcome to this creative space（＾▽＾）</h3>
+<h3 align="center">Welcome to my creative space（＾▽＾）</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/22/22/bf/2222bf4e61a9c909705972dc2e1ad26a.gif">
 
 - 🧫⚙️ I’m currently a **biomed eng. student**
@@ -11,5 +11,15 @@
 
 - 📫 How to reach me **sherinechung27@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![](https://github-readme-stats.vercel.app/api?username=shes-cw&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+Languages and Tools <br/>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+🏆 GitHub Trophies <br/>
+![](https://github-profile-trophy.vercel.app/?username=shes-cw&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+Dev Quote <br/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+[![](https://visitcount.itsvg.in/api?id=shes-cw&icon=1&color=6)](https://visitcount.itsvg.in)
