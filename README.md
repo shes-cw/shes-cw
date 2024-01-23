@@ -5,9 +5,9 @@
 
 - 🧫⚙️ I’m currently a **biomed eng. student**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 Wanting to grow in areas of **AI, Algorithms & Cell Research**
 
-- ✪ I’m looking to **expand my knowledge**
+- ✪ I’m looking to **delve into new experiences**
 
 - 📫 How to reach me **sherinechung27@gmail.com**
 
