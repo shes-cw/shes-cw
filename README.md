@@ -1,5 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/human-nervous-system_53876-90445.jpg?w=1380&t=st=1707093438~exp=1707094038~hmac=795eadd371cc4414e2f9d9821be1698da2f16418fd3ca40134c56c192eaae15f)
-<h1 align="center">hi hi 👋, I'm Sherine🌙</h1>
+![MasterHead](https://i.pinimg.com/originals/1e/56/d5/1e56d5358ea294e1bf44f67597f6d69b.gif)
 <h3 align="center">Welcome to my creative space（＾▽＾）</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/22/22/bf/2222bf4e61a9c909705972dc2e1ad26a.gif">
 
