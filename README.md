@@ -8,8 +8,6 @@
 
 - ✪ I’m looking to **delve into new experiences**
 
-- 📫 How to reach me **sherinechung27@gmail.com**
-
 ![](https://github-readme-stats.vercel.app/api?username=shes-cw&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 Languages and Tools <br/>
